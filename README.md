@@ -1,14 +1,10 @@
-# flutterChat
-flutter chat with firebase and firestore
-
-# documentation
-firebase : https://firebase.google.com/docs</br>
-cloud firestore : https://firebase.google.com/docs/firestore
+# bookStoreApps
+flutter Bookstore application design with dummy data
 
 # Screenshot
-![](images/login.jpg)
-
 ![](images/home.jpg)
 
-![](images/chat.jpg)
+![](images/search.jpg)
+
+![](images/detail.jpg)
 
